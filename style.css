@@ -1,0 +1,20 @@
+body{
+    font-size: 16px;
+font-family: century;
+background: radial-gradient(top left, yellow,red);
+}
+h1{
+    text-align: center;
+    color: chocolate;
+}
+form{
+    width: 300px;
+    padding: 15px 40px 40px;
+    border: 2px green;
+    border-radius: 5px;
+    background-color:  silver;
+    margin: 4% auto;
+}
+input-label{
+    display: block;
+}
